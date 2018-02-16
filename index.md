@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Link](https://www.youtube.com/watch?v=6xeoNjqokRs) and ![Image](https://ih0.redbubble.net/image.206188032.0509/raf,750x1000,075,t,fafafa:ca443f4786.jpg)
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.youtube.com/watch?v=6xeoNjqokRs) and ![Image](https://ih0.redbubble.net/image.206188032.0509/raf,750x1000,075,t,fafafa:ca443f4786.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
